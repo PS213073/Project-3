@@ -36,7 +36,7 @@ namespace Project_3
             
         }
 
-
+        //this is a test
 
         MySqlConnection _con = new MySqlConnection("Server=localhost;Database=verkiezingenprj3;Uid=root;Pwd=;");
 
